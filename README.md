@@ -18,7 +18,6 @@ wanna be fullstack developer<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=lazymonkey699&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lazymonkey699/lazymokey699/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/lazymonkey699/lazymokey699/blob/output/github-snake.svg" />
