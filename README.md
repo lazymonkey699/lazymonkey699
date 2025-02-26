@@ -21,7 +21,7 @@ Breaking things down, refining every detail, and chasing better solutions—beca
 [![](https://visitcount.itsvg.in/api?id=lazymonkey699&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lazymonkey699/lazymokey699/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/lazymonkey699/lazymonkey699/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="  https://github.com/lazymonkey699/lazymonkey699/blob/ad579f8cbf83eb305ad8eed2a620d4c691a6aa5a/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="[https://github.com/lazymonkey699/lazymonkey699/blob/output/github-snake.svg](https://github.com/lazymonkey699/lazymonkey699/blob/ad579f8cbf83eb305ad8eed2a620d4c691a6aa5a/github-snake.svg)" />
   <img alt="github-snake" src="https://github.com/lazymonkey699/lazymonkey699/blob/output/github-snake.svg" />
 </picture>
