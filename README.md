@@ -1,5 +1,7 @@
 # 💫 About Me:
-wanna be fullstack developer<br>
+"Always overanalyzing, always optimizing."
+
+Breaking things down, refining every detail, and chasing better solutions—because "good enough" never is.<br>
 
 
 ## 🌐 Socials:
