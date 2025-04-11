@@ -32,9 +32,4 @@ I break things down, refine the details, and chase better solutionsâ€”because â€
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/your-link)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
 
-<!-- Optional Snake Animation (minimal version) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lazymonkey699/lazymonkey699/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/lazymonkey699/lazymonkey699/blob/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://github.com/lazymonkey699/lazymonkey699/blob/output/github-snake.svg" />
-</picture>
+
